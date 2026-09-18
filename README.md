@@ -10,8 +10,8 @@
 
 <br><br>
 
-[LinkedIn](YOUR_LINKEDIN_URL) &nbsp; | &nbsp;
-[Instagram](YOUR_INSTAGRAM_URL) &nbsp; | &nbsp;
+[LinkedIn](https://www.linkedin.com/in/jeevapriyan-t-k-0ba8b532a?utm_source=share_via&utm_content=profile&utm_medium=member_android) &nbsp; | &nbsp;
+[Instagram](https://www.instagram.com/_.jeevapriyan._502?stkn=MmU4NjdoMHlteTE1) &nbsp; | &nbsp;
 [Portfolio](YOUR_PORTFOLIO_URL)
 
 </div>
