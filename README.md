@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/profile.jpeg" width="180">
+<img src="profile.jpeg.jpeg" width="180">
 
 <br><br>
 
@@ -49,9 +49,9 @@
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/qr-robot.jpeg" width="92%">
+<img src="qr-robot.jpeg.jpeg" width="420">
 
-<br><br>
+<br>
 
 ### AI QR Engraving Robot
 
@@ -61,9 +61,9 @@ AI • Computer Vision • Robotics
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/smart-ship.jpeg" width="92%">
+<img src="smart-ship.jpeg.jpeg" width="420">
 
-<br><br>
+<br>
 
 ### Smart Ship Inspection
 
@@ -77,9 +77,9 @@ Raspberry Pi • Edge AI • Computer Vision
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/ka-strategist.jpeg" width="92%">
+<img src="ka-strategist.jpeg.jpeg" width="420">
 
-<br><br>
+<br>
 
 ### KA Strategist
 
@@ -89,9 +89,9 @@ Next.js • Supabase • Full Stack
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/venuvyy.jpeg" width="92%">
+<img src="venuvyy.jpeg.jpeg" width="420">
 
-<br><br>
+<br>
 
 ### Venuvyy Events
 
