@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/profile.jpg" width="180">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/profile.jpeg" width="180">
 
 <br><br>
 
@@ -49,19 +49,7 @@
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/smart-ship.jpg" width="92%">
-
-<br><br>
-
-### Smart Ship Inspection
-
-Raspberry Pi • Edge AI • Computer Vision
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/qr-robot.png" width="92%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/qr-robot.jpeg" width="92%">
 
 <br><br>
 
@@ -71,13 +59,25 @@ AI • Computer Vision • Robotics
 
 </td>
 
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/smart-ship.jpeg" width="92%">
+
+<br><br>
+
+### Smart Ship Inspection
+
+Raspberry Pi • Edge AI • Computer Vision
+
+</td>
+
 </tr>
 
 <tr>
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/ka-strategist.jpg" width="92%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/ka-strategist.jpeg" width="92%">
 
 <br><br>
 
@@ -89,7 +89,7 @@ Next.js • Supabase • Full Stack
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/venuvyy.jpg" width="92%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/venuvyy.jpeg" width="92%">
 
 <br><br>
 
