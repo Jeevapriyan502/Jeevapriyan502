@@ -6,12 +6,12 @@
 
 <br>
 
-<img src="images/profile.jpg" width="150">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/profile.jpg" width="180">
 
 <br><br>
 
-[LinkedIn](https://www.linkedin.com/in/jeevapriyan-t-k-0ba8b532a?utm_source=share_via&utm_content=profile&utm_medium=member_android) &nbsp; | &nbsp;
-[Instagram](https://www.instagram.com/_.jeevapriyan._502?stkn=MmU4NjdoMHlteTE1) &nbsp; | &nbsp;
+[LinkedIn](YOUR_LINKEDIN_URL) &nbsp; | &nbsp;
+[Instagram](YOUR_INSTAGRAM_URL) &nbsp; | &nbsp;
 [Portfolio](YOUR_PORTFOLIO_URL)
 
 </div>
@@ -49,21 +49,25 @@
 
 <td align="center" width="50%">
 
-<img src="images/smart-ship.jpg" width="90%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/smart-ship.jpg" width="92%">
 
-<br>
+<br><br>
 
 ### Smart Ship Inspection
+
+Raspberry Pi • Edge AI • Computer Vision
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="images/qr-robot.jpg" width="90%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/qr-robot.png" width="92%">
 
-<br>
+<br><br>
 
-### QR Engraving Robot
+### AI QR Engraving Robot
+
+AI • Computer Vision • Robotics
 
 </td>
 
@@ -73,21 +77,25 @@
 
 <td align="center" width="50%">
 
-<img src="images/jam8266.jpg" width="90%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/ka-strategist.jpg" width="92%">
 
-<br>
+<br><br>
 
-### JAM8266
+### KA Strategist
+
+Next.js • Supabase • Full Stack
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="images/elrs-transmitter.jpg" width="90%">
+<img src="https://raw.githubusercontent.com/Jeevapriyan502/Jeevapriyan502/main/images/venuvyy.jpg" width="92%">
 
-<br>
+<br><br>
 
-### ELRS Transmitter
+### Venuvyy Events
+
+Web Development • Events • UI/UX
 
 </td>
 
